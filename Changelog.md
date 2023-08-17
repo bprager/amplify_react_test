@@ -8,8 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
-- Deployment (DynamoDB, Amplify, Lamdas, API Gateway, Cognito)
-- Terraform modularization
+- Test example Lambda
+- Deployment (Amplify, Lamdas, API Gateway, Cognito)
 - DB schema
 - React initial version
 - Cognito configuration
@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changelog
 - Initial directory structure
-- Initial Terraform file
+- Initial Terraform files
 - Initial Lambda function
+- Deployment of DynamoDB and example Lambda
 
