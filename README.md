@@ -1,4 +1,5 @@
 # amplify_react_test
+
 Testing AWS Amplify with React frontend, Dynamo DB backend and Python Lambda services
 
 ## Project directory structure
@@ -35,3 +36,10 @@ project-name/
 ├── .gitignore                     # Git ignore file
 └── README.md                      # Project documentation
 
+## notes
+
+before running terraform ensure that dependencies for each lambda is installed:
+
+```bash
+pip install -r requirements.txt -t .
+```
